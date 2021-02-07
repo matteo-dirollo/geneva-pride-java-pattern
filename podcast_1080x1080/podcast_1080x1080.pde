@@ -30,7 +30,7 @@ String texte = "FIER·E·X·S";
 
 int x = 0;
 int y = 0;
-int d = 60;
+int d = 120;
 int d2 = d / 2;
 int d3 = d * 2;
 int w = 1080;
@@ -66,7 +66,7 @@ void draw(){
   
   background(255);
   noFill();
-  imageMode(CENTER);
+  imageMode(CORNERS);
   image(img, 0, 0);
   
 
@@ -75,18 +75,20 @@ void draw(){
   //drawAudioInput();
   
   float volume = loudness.analyze();
-  int size = int(map(volume, 0, 0.5, 1, 350));
+  int size = int(map(volume, 0, 0.3, 600, 850));
   
-  ellipse( 50, 50, size, size );
   fill(0);
+  ellipseMode(CENTER);
+  ellipse( width/2, height/2, size, size );
+  
   
   pg.beginDraw();
   pg.textFont(viga);
   pg.textAlign(CENTER, CENTER);
-  pg.textSize(size);
+  pg.textSize(96);
   pg.textLeading(56);  // Set leading to 10
   //pg.text(lines, 10, 25);
-  //pg.fill(0);
+  pg.fill(255);
   //pg.background(255);
   
   pg.push();
@@ -97,7 +99,7 @@ void draw(){
   pg.pop();
   
   pg.endDraw();
-  //pg.clear();
+  pg.clear();
   
   imageMode(CENTER);
   image(pg, w/2, h/2);
