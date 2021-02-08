@@ -103,13 +103,6 @@ void draw(){
   
   imageMode(CENTER);
   image(pg, w/2, h/2);
-  
-  
- 
-  
-  
-   
-  
  
 
   if(recording) {
