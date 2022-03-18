@@ -4,10 +4,18 @@ Diversity and inclusion as the basis of a more solid and cohesive model of socie
 
 ## Shapes
 
-![Square](images/shapes/shapes-01.jpg)
+<!-- ![Square](images/shapes/shapes-01.jpg)
 ![Triangles](images/shapes/shapes-02.jpg)
 ![Circle](images/shapes/shapes-03.jpg)
-![Demi-circle](images/shapes/shapes-04.jpg)
+![Demi-circle](images/shapes/shapes-04.jpg) -->
+
+<p float="left">
+  <img src="images/shapes/shapes-01.jpg" width="100" />
+  <img src="images/shapes/shapes-02.jpg" width="100" /> 
+  <img src="images/shapes/shapes-03.jpg" width="100" />
+  <img src="images/shapes/shapes-04.jpg" width="100" />
+</p>
+
 
 ## Colors
 
