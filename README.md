@@ -10,10 +10,10 @@ Diversity and inclusion as the basis of a more solid and cohesive model of socie
 ![Demi-circle](images/shapes/shapes-04.jpg) -->
 
 <p float="left">
-  <img src="images/shapes/shapes-01.jpg" width="300" />
-  <img src="images/shapes/shapes-02.jpg" width="300" /> 
-  <img src="images/shapes/shapes-03.jpg" width="300" />
-  <img src="images/shapes/shapes-04.jpg" width="300" />
+  <img src="images/shapes/shapes-01.jpg" width="150" />
+  <img src="images/shapes/shapes-02.jpg" width="150" /> 
+  <img src="images/shapes/shapes-03.jpg" width="150" />
+  <img src="images/shapes/shapes-04.jpg" width="150" />
 </p>
 
 
