@@ -73,7 +73,7 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 </p>
 
 <p align="center">
-<img src="images/showcase/screen-capture.jpg" width="400" />
+<img src="images/showcase/screen-capture.png" width="400" />
 </p>
 
 ### Project for Épicène
