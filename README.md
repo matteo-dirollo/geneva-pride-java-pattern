@@ -60,6 +60,15 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 
 ## Showcases
 
+<!-- Pattern -->
+<p float="left">
+  <img src="images/showcase/pattern-gif_1080x1080.gif" width="150" />
+</p>
+<!-- Épicène -->
+<p float="left">
+  <img src="images/showcase/IMG_20210729_185240.jpg" width="150" />
+</p>
+
 [![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/hqdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
 
 ## Authors

@@ -34,7 +34,8 @@ void draw(){
 
   if(recording) {
     videoExport.saveFrame();
-    saveFrame("data/tiff/frame-#####.tiff");
-    saveFrame("data/png/frame-#####.png");
+    saveFrame("data/video/pride-pattern.mp4");
+    //saveFrame("data/tiff/frame-#####.tiff");
+    //saveFrame("data/png/frame-#####.png");
   }
 }
