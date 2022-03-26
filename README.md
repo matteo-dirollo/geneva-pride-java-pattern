@@ -60,6 +60,7 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 
 ## Showcases
 
+### Pattern
 <!-- Pattern -->
 <p align="center">
   <img src="images/showcase/pattern-gif_1080x1080.gif" width="300" />
