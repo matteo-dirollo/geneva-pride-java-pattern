@@ -67,7 +67,7 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 </p>
 <!-- Épicène -->
 <p float="left">
-  <img src="images/showcase/IMG_20210729_185240.jpg" width="150" />
+  <img src="images/showcase/IMG_20210729_185240.jpg" width="300" />
 </p>
 
 [![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/hqdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
