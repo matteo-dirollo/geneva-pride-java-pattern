@@ -57,9 +57,10 @@ color bleu = #3c61ab;
 
 color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure, rouge, bleu};
 ```
-## Code
 
-## Usage Examples
+## Showcases
+
+[![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/maxresdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
 
 ## Authors
 
