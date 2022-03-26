@@ -84,6 +84,12 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
   <img src="images/showcase/epicene/3-didèl.jpg" width="200" />
   <img src="images/showcase/epicene/4-Elliot.jpg" width="200" />
 </p>
+<p float="left">
+  <img src="images/showcase/epicene/5-Lèa.jpg" width="200" />
+  <img src="images/showcase/epicene/6-Yasmine.jpg" width="200" />
+  <img src="images/showcase/epicene/7-Swan.jpg" width="200" />
+  <img src="images/showcase/epicene/8-Christina.jpg" width="200" />
+</p>
 
 
 
