@@ -61,7 +61,7 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 ## Showcases
 
 <!-- Pattern -->
-<p>
+<p float="center">
   <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="images/showcase/pattern-gif_1080x1080.gif" />
 </p>
 <!-- Épicène -->
