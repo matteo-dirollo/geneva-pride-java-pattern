@@ -66,6 +66,15 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
   <img src="images/showcase/pattern-gif_1080x1080.gif" width="300" />
 </p>
 
+### Video TPG
+
+<p float="left">
+
+[![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/hqdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
+
+[![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/hqdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
+</p>
+
 ### Project for Épicène
 
 <p float="left">
@@ -75,7 +84,7 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
   <img src="images/showcase/epicene/4-Elliot.jpg" width="200" />
 </p>
 
-[![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/hqdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
+
 
 ## Authors
 
