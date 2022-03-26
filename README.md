@@ -1,12 +1,12 @@
-1. #dynamic-identity-geneva-pride---abstract
-2. #shapes
-3. #colors
-4. #showcase
-   1. #pattern
-   2. #video-tpg
-   3. #project-for-épicène
-5. #authors
-6. #license
+- [Dynamic Identity Geneva Pride - ABSTRACT](#dynamic-identity-geneva-pride---abstract)
+  - [Shapes](#shapes)
+  - [Colors](#colors)
+  - [Showcases](#showcases)
+    - [Pattern](#pattern)
+    - [Video TPG](#video-tpg)
+    - [Project for Épicène](#project-for-épicène)
+  - [Authors](#authors)
+  - [License](#license)
 
 # Dynamic Identity Geneva Pride - ABSTRACT
 
