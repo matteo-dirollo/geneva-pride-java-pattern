@@ -78,6 +78,10 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 
 ### Project for Épicène
 
+<p align="center">
+<img src="images/showcase/IMG_20210729_185240.jpg" width="400" />
+</p>
+
 <p float="left">
   <img src="images/showcase/epicene/1-raymond_page-0001.jpg" width="200" />
   <img src="images/showcase/epicene/2-Andréa.jpg" width="200" />
