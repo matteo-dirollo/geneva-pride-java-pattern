@@ -29,13 +29,12 @@ for( int x = 0; x < width; x += d) {
     }
   }
 ```
-<p align="center">
-    <p float="left">
-      <img src="images/shapes/shapes-01.jpg" width="150" />
-      <img src="images/shapes/shapes-02.jpg" width="150" /> 
-      <img src="images/shapes/shapes-03.jpg" width="150" />
-      <img src="images/shapes/shapes-04.jpg" width="150" />
-    </p>
+
+<p float="left">
+  <img src="images/shapes/shapes-01.jpg" width="150" />
+  <img src="images/shapes/shapes-02.jpg" width="150" /> 
+  <img src="images/shapes/shapes-03.jpg" width="150" />
+  <img src="images/shapes/shapes-04.jpg" width="150" />
 </p>
 
 
@@ -70,11 +69,11 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 ### Video TPG
 
 <p align="center">
-
 <img src="images/showcase/Geneva%20Pride%20-%20vidéo%20diffusée%20sur%20les%20écrans%20TPG%20de%20la%20Ville%20de%20Genève.gif" width="400" />
+</p>
 
-
-[![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/hqdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
+<p align="center">
+<img src="images/showcase/screen-capture.jpg" width="400" />
 </p>
 
 ### Project for Épicène
