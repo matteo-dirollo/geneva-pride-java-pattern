@@ -62,7 +62,7 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 
 <!-- Pattern -->
 <p align="center">
-  <img src="images/showcase/pattern-gif_1080x1080.gif" />
+  <img src="images/showcase/pattern-gif_1080x1080.gif" width="300" />
 </p>
 <!-- Épicène -->
 <p float="left">
