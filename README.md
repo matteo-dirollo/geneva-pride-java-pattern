@@ -3,7 +3,7 @@
 The following project is a study of the dynamic identity of the Geneva Pride. Through the colors and the different geometric shapes the constructed pattern recalls the colors of the Pride flag and underlines the aspects of its themes. Like gender, the pattern always shows itself different in shapes and colors, its fluid and energetic dynamism represents every kind of diversity and builds an inclusive and never rhetorical communication.
 ## Shapes
 
-The tool used to create the pattern is Processing, a console for writing code in the context of the visual arts. The shapes used are the square, triangle and circle. They are all arranged on a grid through the very modulation of the geometric elements following this code syntax:
+The tool used to create the pattern is Processing, a console for writing code in the context of the visual arts. The shapes are the square, triangle and circle. They are all arranged on a grid through the very modulation of the geometric elements following this code syntax:
 
 ```
 for( int x = 0; x < width; x += d) {
