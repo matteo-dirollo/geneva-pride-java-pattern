@@ -68,10 +68,11 @@ color [] colors = {noir, blanc, marron, orange, vert, rose, jaune, violet, azure
 
 ### Video TPG
 
-<p float="left">
+<p align="center">
 
-<img src="images/showcase/Geneva%20Pride%20-%20vidéo%20diffusée%20sur%20les%20écrans%20TPG%20de%20la%20Ville%20de%20Genève.gif" width="200" />
+<img src="images/showcase/Geneva%20Pride%20-%20vidéo%20diffusée%20sur%20les%20écrans%20TPG%20de%20la%20Ville%20de%20Genève.gif" width="400" />
 
+Watch the video
 [![Watch the video](https://img.youtube.com/vi/C7cZxNpPmFY/hqdefault.jpg)](https://youtu.be/C7cZxNpPmFY)
 </p>
 
